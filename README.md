@@ -1,9 +1,11 @@
-# Arquivos estáticos de distribuição
+# Português
+
+## Arquivos estáticos de distribuição
 
 Este repositório contém arquivos de configuração estáticos das distribuições Hexagonix e Andromeda.
 
-## Informação de localização na árvore de construção do Hexagonix/Andromeda
+# English
 
-Este repositório deve ser clonado no diretório Dist/etc.
+## Distribution static files
 
-Versão deste arquivo: 1.0
+This repository contains static configuration files for the Hexagonix and Andromeda distributions.
