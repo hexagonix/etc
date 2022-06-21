@@ -1,0 +1,22 @@
+# Sistema Operacional Hexagonix(R)
+# 
+# Copyright (C) 2016-2022 Felipe Miguel Nery Lunkes
+# Todos os direitos reservados.
+# 
+# Gerenciamento de usuarios do Sistema Operacional Hexagonix(R).
+# Cuidado ao alterar qualquer valor dentro dos delimitadores neste arquivo!
+# 
+# Altere estes valores apenas se souber o que esta fazendo!
+#
+# Banco de dados utilizado pelos utilitarios login e su, alem do daemon logind
+# 
+# Agora, o tema sera definido: tema claro ou tema escuro (padrao)
+
+<escuro> # Tema utilizado pelos aplicativos Hexagonix(R)
+
+# Aviso! Nunca remova o usuario root! O sistema podera parar de funcionar.
+
+@root|root&sh.app#         # Usuario raiz (nao remover)
+@Duna|root&ash.app#        # Usuario padrao da versao
+@Hexagonix|root&hash.app#  # Sistema
+@Felipe|root&hash.app#     # Usuario comum
