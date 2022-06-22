@@ -1,13 +1,4 @@
-# Sistema Operacional Hexagonix(R)
-# Copyright 2016-2022 Felipe Miguel Nery Lunkes
-# Todos os direitos reservados.
-
-# Arquivo com informacoes legiveis de versao do Hexagonix, em formato semelhante a XML (UNX-XML)
-
-<Hexagonix>
-<VERSAO> H1 </VERSAO>
-<NOME> Vega </NOME>
-<PACOTE> H1 </PACOTE>
-<BUILD> 5BE930 </BUILD>
-<STATUS> H1.R4 </STATUS>
+# Sistema Operacional Hexagonix(R) # Copyright 2016-2022 Felipe Miguel Nery Lunkes # Todos os direitos reservados.  # Arquivo com informacoes legiveis de versao do Hexagonix, em formato semelhante a XML (UNX-XML)  <Hexagonix> <VERSAO> H1 </VERSAO> <NOME> Vega </NOME> <PACOTE> H1 </PACOTE> <STATUS> H1.R4 </STATUS>
+<BUILD> 9811 </BUILD>
+<DATA_BUILD> qua 22 jun 2022 11:38:12 -03 </DATA_BUILD>
 </Hexagonix>
