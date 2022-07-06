@@ -15,6 +15,6 @@ Nomes de código de futuras versões do sistema, em ordem:
 > Gamont
 > Yardin
 > Celestial
-> Vega
+> Vega [Ok]
 > Navi 
 > Orion 
