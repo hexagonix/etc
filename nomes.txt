@@ -17,4 +17,4 @@ Nomes de código de futuras versões do sistema, em ordem:
 > Celestial
 > Vega [Ok]
 > Navi 
-> Orion 
+> Orion [Ok]
