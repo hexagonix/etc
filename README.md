@@ -1,3 +1,22 @@
+<p align="center">
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="150" height="150">
+</p>
+
+<div align="center">
+
+![](https://img.shields.io/github/license/hexagonix/etc.svg)
+![](https://img.shields.io/github/stars/hexagonix/etc.svg)
+![](https://img.shields.io/github/issues/hexagonix/etc.svg)
+![](https://img.shields.io/github/issues-closed/hexagonix/etc.svg)
+![](https://img.shields.io/github/issues-pr/hexagonix/etc.svg)
+![](https://img.shields.io/github/issues-pr-closed/hexagonix/etc.svg)
+![](https://img.shields.io/github/downloads/hexagonix/etc/total.svg)
+![](https://img.shields.io/github/release/hexagonix/etc.svg)
+
+</div>
+
+<hr>
+
 # Português
 
 ## Arquivos estáticos de distribuição
