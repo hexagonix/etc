@@ -15,14 +15,17 @@
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
 
-# Português
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
+
+# 🇧🇷 Português (Brasil)
 
 ## Arquivos estáticos de distribuição
 
 Este repositório contém arquivos de configuração estáticos do Hexagonix
-# English
+
+# 🇬🇧 English
 
 ## Distribution static files
 
