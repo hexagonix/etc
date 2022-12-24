@@ -24,7 +24,7 @@
 
 ## Arquivos estáticos de distribuição
 
-Este repositório contém arquivos de configuração estáticos do Hexagonix
+Este repositório contém arquivos de configuração estáticos do Hexagonix.
 
 # 🇬🇧 English
 
