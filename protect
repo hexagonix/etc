@@ -1,0 +1,26 @@
+# Hexagonix Operating System
+#
+# Copyright (C) 2015-2026 Felipe Miguel Nery Lunkes
+# All rights reserved.
+#
+# Hexagonix protected path list (protect)
+#
+# $HexagonixOS$
+#
+# One path per line. Blank lines and lines starting with '#' are ignored.
+# Read by "protect -a", run from /etc/rc at boot
+#
+/boot
+/boot/hexagon
+/boot/boot.cfg
+/etc
+/etc/protect
+/etc/shadow
+/etc/sudoers
+/etc/rc
+/etc/fstab
+/etc/hexgnix.cfg
+/bin
+/sbin
+/sbin/su setuid
+/sbin/sudo setuid

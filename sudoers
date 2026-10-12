@@ -1,0 +1,13 @@
+# Hexagonix Operating System
+#
+# Copyright (C) 2015-2026 Felipe Miguel Nery Lunkes
+# All rights reserved.
+#
+# Hexagonix sudo authorization list (sudoers)
+#
+# $HexagonixOS$
+#
+# One user id per line. Blank lines and lines starting with '#' are
+# ignored. Read by sudo, which refuses to run anything for a real user
+# id not listed here
+#
